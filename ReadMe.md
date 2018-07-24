@@ -1,5 +1,5 @@
 # accupick3d
-#<!-- 2018.06.12 -->
+#<!-- 2018.07.24 -->
 #<!-- <author email="wenchih_tai@solomon.com.tw">Wenchih Tai</author> -->
 # 
 # www.solomon.com.tw
